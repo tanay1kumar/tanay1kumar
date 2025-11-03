@@ -1,4 +1,4 @@
-2nd year Computer Science student @ Queen’s University
+## 2nd year Computer Science student @ Queen’s University
 
 Check out my hackathon projects:
 https://devpost.com/tanaykumar29
